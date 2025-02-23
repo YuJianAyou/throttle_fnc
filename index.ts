@@ -266,6 +266,7 @@ if (btn) {
 //  vue  使用
 
 <script lang="ts" setup>
+//  上面的class 类.
 import {U} from "@/util/index.ts"
 /**
  * s 当前时间戳
