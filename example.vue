@@ -17,3 +17,4 @@ const onSubmits = u.limitationCode(u, "10s", (s: Set<number>, t: number) => {
 //   定时器功能
   console.log("定时器执行了", cs)
 })
+</script>
